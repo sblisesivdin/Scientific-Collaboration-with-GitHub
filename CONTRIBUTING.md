@@ -1,12 +1,12 @@
 # How to contribute*
 
-ReSCoG need volunteer developers. We welcome all contributions and discussions. 
+SCoG need volunteer developers. We welcome all contributions and discussions. 
 
-Contributing to ReSCoG is easy. It all starts with a [Pull Request](http://help.github.com/pull-requests/). Firstly, you need to fork the repository, work on it and raise a pull request to introduce your changes to us.
+Contributing to SCoG is easy. It all starts with a [Pull Request](http://help.github.com/pull-requests/). Firstly, you need to fork the repository, work on it and raise a pull request to introduce your changes to us.
 
 ## Submitting changes
 
-Please send a [GitHub Pull Request to ReSCoG](https://github.com/sblisesivdin/Remote-Scientific-Collaboration-with-Github/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)).  Please follow the rules (below) and make sure all of your commits are atomic (one feature per commit).
+Please send a [GitHub Pull Request to SCoG](https://github.com/sblisesivdin/Scientific-Collaboration-with-Github/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)).  Please follow the rules (below) and make sure all of your commits are atomic (one feature per commit).
 
 Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
 
@@ -24,4 +24,4 @@ We need guidelines to communicate better and better readability:
 
 Thanks in advance for your contribution.
 
-*: This page is derived from [opengovernment](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md)'s contibuting file.
+*: This page is derived from [opengovernment](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md)'s contributing file.
