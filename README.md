@@ -13,28 +13,15 @@ The main problem with GitHub is, Git itself. Git has a complex command-line inte
 SCoG is just a template repository to carry on a remote scientific collaboration on an article/proceeding with GitHub. With SCoG, we may shorten the time needed the planning and using GitHub on a scientific study. For this [I](https://sblisesivdin.github.io) started SCoG project on Aug 14th 2020.
 
 ## So what?
-If you are here, we accept that you know how to write science (Schimel, 2012). Also you must know how to submit a manuscript to a scholar journal. Here, with SCoG, we want to collaborate on writing a manuscript, and then with democratic ways, we want to choose a journal to submit it. Therefore, we can divide the total processes in to two main process:
+If you are here, we accept that you know how to write science (Schimel, 2012). Also you must know how to submit a manuscript to a scholar journal. Here, with SCoG, we want to collaborate on discussing a scientific problem, writing a manuscript, and then with democratic ways, we want to choose a journal to submit it. Therefore, we can divide the total processes in to five main processes:
 
-1- Writing Manuscript
-2- Submitting to a Journal
+1. [Observation and Hypothesis](1-Observation-and-Hypothesis/README.md)
+2. [Experiments or Calculations](2-Experiments-or-Calculations/README.md)
+3. [Analyzes](3-Analyzes/README.md)
+4. [Manuscript preparation](4-Manuscript-preparation/README.md)
+5. [Submission and Review](5-Submission-and-Review/README.md)
 
-### Writing Manuscript
-
-We will take the IMRAD format for the ReSCoG process. Because, IMRAD is the most common physical structure for science papers.
-
-Therefore, we are accepting that we have some sections in our study:
-* Introduction : This part has three "unnamed" subsections.
-  * Opening : Introduces the problem, and the tools or methods
-  * Background : What authors did and why it is important,
-  * Challenge : Specific hypotheses/questions/goals of the proposed study.
-* Materials / Methods : What and how did you do the study.
-  * Figures: There may be a single figure (no limit but, mostly like this) explaning the method or the structure of materials used,
-  * Tables: Like figures, it may have a single table to explain the method or the structure of materials used.
-* Results and Discussion : Your findings.
-  * Figures: As they said, one figure is explaining a 100 words. You need to report your findings here with the help of figures...
-  * Tables: ...and tables.
-
-### Submitting to a Journal
+Please refer to each link for more.
 
 ## References
 
