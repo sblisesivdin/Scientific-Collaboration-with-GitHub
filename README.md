@@ -1,4 +1,4 @@
-# Scientific Collaboration with Github (SCoG)
+# Scientific Collaboration with GitHub (SCoG)
 
 ## About
 
@@ -13,7 +13,7 @@ The main problem with GitHub is, Git itself. Git has a complex command-line inte
 SCoG is just a template repository to carry on a remote scientific collaboration on an article/proceeding with GitHub. With SCoG, we may shorten the time needed the planning and using GitHub on a scientific study. For this [I](https://sblisesivdin.github.io) started SCoG project on Aug 14th 2020.
 
 ## So what?
-If you are here, we accept that you know how to write science (Schimel, 2012). Also you must know how to submit a manuscript to a scholar journal. Here, with SCog, we want to collaborate on writing a manuscript, and then with democratic ways, we want to choose a journal to submit it. Therefore, we can divide the total processes in to two main process:
+If you are here, we accept that you know how to write science (Schimel, 2012). Also you must know how to submit a manuscript to a scholar journal. Here, with SCoG, we want to collaborate on writing a manuscript, and then with democratic ways, we want to choose a journal to submit it. Therefore, we can divide the total processes in to two main process:
 
 1- Writing Manuscript
 2- Submitting to a Journal
