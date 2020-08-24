@@ -6,7 +6,7 @@ Submission and Review of the prepared manuscript is the very important part of t
 
 For the voting, the most important thing will be to hide the votes of people from others. For this **corresponding author will take the responsibility of collecting votes and then announce**
 
-Therefore, when the manuscript is finished, the following scheme can be suggested to follow:
+Therefore, when the manuscript is finished, the following scheme which is simply a Borda Voting count (Saari, 1985) can be suggested to follow:
 
 1. Corresponding author will announce a call for suggesting journal names. There must be a deadline for this process (1 week is more than enough).
 2. For example, total of 7 journals are suggested by authors. All suggested journal names will be announced to authors by corresponding author like:
@@ -36,4 +36,10 @@ and **weighted** votes will be requested. For 7 journals, authors will give each
 | 7   | Journal 7    |     5    |    7     |    5     |  17   |
 
 Therefore, corresponding author will submit the manuscript firstly to Journal 1. If it will be rejected from Journal 1, then it will be submitted to Journal 7. Then (hopefully not) Journal2, 4, 3, 6 and lastly 5.
+
+**NOTE:** Here, all authors have been accepted to have one vote. For a more technocratic way for voting, commit counts or line change counts can be used to determine weights of each vote.
+
+
+# References
+* Saari, D.G., 1985. The Optimal Ranking Method in the Borda Count.
 
