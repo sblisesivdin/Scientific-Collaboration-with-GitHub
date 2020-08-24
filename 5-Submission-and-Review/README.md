@@ -39,6 +39,76 @@ Therefore, corresponding author will submit the manuscript firstly to Journal 1.
 
 **NOTE:** Here, all authors have been accepted to have one vote. For a more technocratic way for voting, commit counts or line change counts can be used to determine weights of each vote.
 
+## Submission and review
+
+After determining the journal to submit, corresponding author can prepare the files for submission and put it in a new folder under here.
+
+```
+/5-Submission-and-Review
+  1-1-Journal1-FirstSubmit-May2020
+    manuscript.docx
+    fig1.eps
+    fig2.eps
+    table1.docx
+    cover_letter.docx
+    ...
+```
+
+If a review request come from the journal, a second folder can be opened as:
+
+```
+/5-Submission-and-Review
+  1-1-Journal1-FirstSubmit-May2020
+    manuscript.docx
+    fig1.eps
+    fig2.eps
+    table1.docx
+    cover_letter.docx
+    ...
+  1-2-Journal1-MajorReview-Sep2020
+    manuscript.docx
+    manuscript_corrections.docx
+    rebuttal_letter.md
+    fig1.eps
+    fig2_corrected.eps
+    table1.docx
+    cover_letter.docx
+    ...
+```
+
+For our scenario, let's we had a bad day and our manuscript was rejected from Journal 1. We will submit it to Journal 7, as it was our second choice.
+
+```
+/5-Submission-and-Review
+  1-1-Journal1-FirstSubmit-May2020
+    manuscript.docx
+    fig1.eps
+    fig2.eps
+    table1.docx
+    cover_letter.docx
+    ...
+  1-2-Journal1-MajorReview-Sep2020
+    manuscript.docx
+    manuscript_corrections.docx
+    rebuttal_letter.md
+    fig1.eps
+    fig2_corrected.eps
+    table1.docx
+    cover_letter.docx
+    ...
+  2-1-Journal7-FirstSubmit-Dec2020
+    manuscript.docx
+    fig1.eps
+    fig2.eps
+    table1.docx
+    cover_letter.docx
+    ...
+```
+
+So the process can be carried on like this.
+
+Rebuttals can be written in MD files or again can be arranged as Google Docs, simple doc files, rtf files, anything can be tried. It is better to use GitHub as much as possible. However, cloud collaboration tools can also be used because of higher flexibity they offer (equation editor, review pane, including figures inside document etc...).
+
 
 # References
 * Saari, D.G., 1985. The Optimal Ranking Method in the Borda Count.
