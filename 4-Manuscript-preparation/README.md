@@ -2,7 +2,7 @@
 
 ## Writing Manuscript
 
-We will take the IMRAD format for the ReSCoG process. Because, IMRAD is the most common physical structure for science papers.
+We will take the IMRAD format for the SCoG process. Because, IMRAD is the most common physical structure for science papers.
 
 Therefore, we are accepting that we have some sections in our study:
 * Introduction : This part has three "unnamed" subsections.
