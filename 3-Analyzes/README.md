@@ -11,3 +11,22 @@ This folder will include further analyzes like mobility analyzes, Fourier transf
 OR
 
 * For spreadsheet needs please refer our Google Docs Folder (You can add a link here), add Sheet document in the folder.
+
+## Sample usage
+
+```
+/ Mobility_analysis
+  Sample1_Fig1a-Temp20-300K.mppz
+  Sample2_Fig1b-Temp20-300K.mppz
+  Sample1_Fig2a-Magnetic-0-5T.mppz
+  Sample2_Fig2b-Magnetic-0-5T.mppz
+  ...
+```
+or
+```
+/ Optical_calculations
+  AllSamples_reflectance_calc-200920.ods
+  AllSamples_absorbance_calc-200920.ods
+  AllSamples_absorbance_calc-201001.ods
+  AllSamples_optical_conductivity_calc-200920.ods
+```
