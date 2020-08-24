@@ -40,6 +40,6 @@ Table1.docx
 ```
 OR
 
-Authors **can use a cloud-based collaboration tool like Google Docs** or **Latex** or **MS Word files** for manuscript preparation and can use this folder to save the files like figures, cover letter, author credit statement etc.
+Authors **can use a cloud-based collaboration tool like Google Docs** or **Latex** or **MS Word files (not a logical choose, you can not use GitHub features or cloud collaboration features)** for manuscript preparation and can use this folder to save the files like figures, cover letter, author credit statement etc.
 
 **NOTE:** When it is ready to submit, this folder contents must be frozen. First submit and further rebuttals and possible submissions to other journals will be continue in the step [5-Submission-and-Review](5-Submission-and-Review/README.md)
