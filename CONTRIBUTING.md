@@ -1,6 +1,6 @@
 # How to contribute*
 
-SCoG need volunteer developers. We welcome all contributions and discussions. 
+**SCoG need volunteer developers. We welcome all contributions and discussions. Let's discuss how we can do science on GitHub! Please use Issues to discuss and send pull request to help development!**
 
 Contributing to SCoG is easy. It all starts with a [Pull Request](http://help.github.com/pull-requests/). Firstly, you need to fork the repository, work on it and raise a pull request to introduce your changes to us.
 
