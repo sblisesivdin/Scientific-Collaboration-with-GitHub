@@ -23,7 +23,7 @@ PL.md
 AFM.md
 ```
 
-Here, PL.md and AFM.md can include details of experiments (used device, used chemicals, laser wavelength, room temperature, any problems, etc...)
+Here, PL.md and AFM.md can include details of experiments (used device, used chemicals, laser wavelength, room temperature, any problems, log, lab notebook type usage etc...)
 
 ### An computational study of DFT investigation of X material
 
