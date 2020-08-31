@@ -23,7 +23,24 @@ If you are here, we accept that you know how to write science (Schimel, 2012). A
 
 Please refer to each link for more.
 
-## References
+## What about contributing to SCoG
+
+If the total SCoG idea got attention from you and you want to contribute SCoG, how it can work, what is the limiting factors, etc... just continue with the [CONTRIBUTING](CONTRIBUTING.md) file.
+
+Before contributing to SCoG, it may better read some ideas already mentioned in the internet:
+
+- https://grasshoppermouse.github.io/2019/07/12/should-scientific-publishing-move-to-github-and-friends/
+- https://andrewgyork.github.io/
+- http://rescience.github.io/
+- https://www.arfon.org/chatops-driven-publishing
+- https://manubot.org/
+- https://slate.com/technology/2017/04/we-need-a-github-for-academic-research.html
+- https://github.blog/2014-05-14-improving-github-for-science/
+- https://www.fastcompany.com/3016677/can-the-github-for-science-convince-researchers-to-open-source-their-data
+- https://marciovm.com/i-want-a-github-of-science
+- https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7
+
+## References in Text
 
 * Kwok, R., 2018. How to pick an electronic laboratory notebook. Nature, 560(7717), pp.269-270.
 * Munaiah, N., Kroh, S., Cabrey, C. and Nagappan, M., 2017. Curating github for engineered software projects. Empirical Software Engineering, 22(6), pp.3219-3253.
